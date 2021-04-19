@@ -133,7 +133,7 @@ int main()
             printf("ja esta ordenado. Agora estou intercalar o '%s' com '%s' entao temos: '%s'\n", arq1, arq2, arqSaida);
 		    intercalando(arq1, arq2, arqSaida);
            
-			remove(arq2);
+	    remove(arq2);
             remove(arq1);
             
 
