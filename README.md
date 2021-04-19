@@ -1,18 +1,15 @@
 # trabalho_arquivo_2021_1
  meus trabalhos de arquivo
 
-PRIMEIRO TRABALHO 
+# PRIMEIRO TRABALHO 
+Busca Binária:
+1.	Compilar o código  trabalhoBuscaBinaria2 .cpp.
+2.	Ter o arquivo cep.dat.part no mesmo diretório onde está o executável observe que a extensao é part. 
+3.	O programa  precisa de parâmetros via  terminal.
 
 
 
-
-
-
-
-
-
-
-SEGUNDO TRABALHO :
+# SEGUNDO TRABALHO :
 
 .Ordenação por Intercalação 
 
